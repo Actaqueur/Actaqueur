@@ -1,8 +1,5 @@
-<h3 align="center">passionate development and cybersecurity</h3>
 
-<div align="center">
-<img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" align="center" style="width: 100%" />
-</div>  
+<h3 align="center">passionate development and cybersecurity</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

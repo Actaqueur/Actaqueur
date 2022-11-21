@@ -1,6 +1,8 @@
 
 <h3 align="center">passionate development and cybersecurity</h3>
 
+![Alt Text](https://i.kym-cdn.com/photos/images/original/001/941/206/012.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/UserPassword#2914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UserPassword#2914" height="30" width="40" /></a>
